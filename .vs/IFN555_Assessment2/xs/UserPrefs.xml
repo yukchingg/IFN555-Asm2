@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{DDEBCA47-9E89-4E69-A1C3-DB103131D046}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="IFN555_Assessment2/Program.cs">
+    <Files>
+      <File FileName="IFN555_Assessment2/Program.cs" Line="21" Column="61" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.IFN555__Assessment2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

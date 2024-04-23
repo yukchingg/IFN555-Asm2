@@ -1,0 +1,15 @@
+/Users/yukching/Documents/Master of IT/sem1/IFN555 Introduction to Programming/IFN555_Assessment2/IFN555_Assessment2/bin/Debug/net7.0/IFN555_Assessment2
+/Users/yukching/Documents/Master of IT/sem1/IFN555 Introduction to Programming/IFN555_Assessment2/IFN555_Assessment2/bin/Debug/net7.0/IFN555_Assessment2.deps.json
+/Users/yukching/Documents/Master of IT/sem1/IFN555 Introduction to Programming/IFN555_Assessment2/IFN555_Assessment2/bin/Debug/net7.0/IFN555_Assessment2.runtimeconfig.json
+/Users/yukching/Documents/Master of IT/sem1/IFN555 Introduction to Programming/IFN555_Assessment2/IFN555_Assessment2/bin/Debug/net7.0/IFN555_Assessment2.dll
+/Users/yukching/Documents/Master of IT/sem1/IFN555 Introduction to Programming/IFN555_Assessment2/IFN555_Assessment2/bin/Debug/net7.0/IFN555_Assessment2.pdb
+/Users/yukching/Documents/Master of IT/sem1/IFN555 Introduction to Programming/IFN555_Assessment2/IFN555_Assessment2/obj/Debug/net7.0/IFN555_Assessment2.csproj.AssemblyReference.cache
+/Users/yukching/Documents/Master of IT/sem1/IFN555 Introduction to Programming/IFN555_Assessment2/IFN555_Assessment2/obj/Debug/net7.0/IFN555_Assessment2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yukching/Documents/Master of IT/sem1/IFN555 Introduction to Programming/IFN555_Assessment2/IFN555_Assessment2/obj/Debug/net7.0/IFN555_Assessment2.AssemblyInfoInputs.cache
+/Users/yukching/Documents/Master of IT/sem1/IFN555 Introduction to Programming/IFN555_Assessment2/IFN555_Assessment2/obj/Debug/net7.0/IFN555_Assessment2.AssemblyInfo.cs
+/Users/yukching/Documents/Master of IT/sem1/IFN555 Introduction to Programming/IFN555_Assessment2/IFN555_Assessment2/obj/Debug/net7.0/IFN555_Assessment2.csproj.CoreCompileInputs.cache
+/Users/yukching/Documents/Master of IT/sem1/IFN555 Introduction to Programming/IFN555_Assessment2/IFN555_Assessment2/obj/Debug/net7.0/IFN555_Assessment2.dll
+/Users/yukching/Documents/Master of IT/sem1/IFN555 Introduction to Programming/IFN555_Assessment2/IFN555_Assessment2/obj/Debug/net7.0/refint/IFN555_Assessment2.dll
+/Users/yukching/Documents/Master of IT/sem1/IFN555 Introduction to Programming/IFN555_Assessment2/IFN555_Assessment2/obj/Debug/net7.0/IFN555_Assessment2.pdb
+/Users/yukching/Documents/Master of IT/sem1/IFN555 Introduction to Programming/IFN555_Assessment2/IFN555_Assessment2/obj/Debug/net7.0/IFN555_Assessment2.genruntimeconfig.cache
+/Users/yukching/Documents/Master of IT/sem1/IFN555 Introduction to Programming/IFN555_Assessment2/IFN555_Assessment2/obj/Debug/net7.0/ref/IFN555_Assessment2.dll

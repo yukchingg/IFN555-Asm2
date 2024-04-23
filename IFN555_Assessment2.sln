@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IFN555_Assessment2", "IFN555_Assessment2\IFN555_Assessment2.csproj", "{DDEBCA47-9E89-4E69-A1C3-DB103131D046}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tut5", "..\..\..\..\..\Library\CloudStorage\OneDrive-QueenslandUniversityofTechnology\Tut5\Tut5.csproj", "{6CFD9769-659E-4484-905F-F2F187466FEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDEBCA47-9E89-4E69-A1C3-DB103131D046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDEBCA47-9E89-4E69-A1C3-DB103131D046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDEBCA47-9E89-4E69-A1C3-DB103131D046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDEBCA47-9E89-4E69-A1C3-DB103131D046}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CFD9769-659E-4484-905F-F2F187466FEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CFD9769-659E-4484-905F-F2F187466FEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CFD9769-659E-4484-905F-F2F187466FEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CFD9769-659E-4484-905F-F2F187466FEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18EE65E5-3C55-4445-9E2D-5CCE6C045BD5}
+	EndGlobalSection
+EndGlobal

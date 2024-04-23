@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "IFN555_Assessment2/1.0.0": {
+        "runtime": {
+          "IFN555_Assessment2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IFN555_Assessment2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
